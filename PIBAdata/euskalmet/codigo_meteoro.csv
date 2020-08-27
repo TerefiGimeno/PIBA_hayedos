@@ -1,0 +1,13 @@
+CODIGO_METEORO,Descrip,short,Unidad
+11,velocidad media del viento,WS_avg,m.s-1
+12,direccion media del viento,WD_avg,grados
+14,velocidad maxima del viento,WS_max,m.s-1
+16,sigma de la velocidad del viento,WS_sigma,m.s
+17,sigma de la direccion del viento,WD_sigma,grados
+21,temperatura del aire,AirT_avg,grados C
+31,humedad relativa del aire,RH_avg,porcentaje
+40,precipitacion,P_tot,mm
+50,presion atmosferica,AtmP_mb,mb
+70,irradicacion solar,Rn_W.m2,W.m-2
+73,radiacion solar UV,UV,j.m-2.h-1
+22,temperatura ras de suelo,FloorT_avg,grados C
